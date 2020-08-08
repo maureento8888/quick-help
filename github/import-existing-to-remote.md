@@ -10,7 +10,7 @@ $ git commit -m "<commit message>" // commits tracked changes to push
 
 In GitHub, copy URL
 
-$ git remote add origin remote repository URL // sets the new remote
+$ git remote add origin <remote repository URL> // sets the new remote
 
 $ git remote -v // verifies the new remote URL
 
