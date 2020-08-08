@@ -1,3 +1,3 @@
 # Quick Help
 
-For scripts and commands I always forget :)
+For scripts and commands I always forget
