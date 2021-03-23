@@ -1,15 +1,18 @@
-Remove .DS_Store from Git repo
+### Remove .DS_Store from Git repo
 
-Remove existing files from repo
-\$ find . -name .DS_Store -print0 | xargs -0 git rm -f --ignore-unmatch
+#### Remove existing files from repo
 
-Add to gitignore:
+`$ find . -name <file name> -print0 | xargs -0 git rm -f --ignore-unmatch`
 
-.DS_Store
+#### Add to gitignore:
 
-Or:
-\$ echo .DS_Store >> .gitignore
+`<file name>`
 
-Add and Commit:
-$ git add .gitignore
-$ git commit -m ".DS_Store removed"
+##### Or:
+
+`$ echo <file name> >> .gitignore`
+
+#### Add and Commit:
+
+`$ git add .gitignore`
+`$ git commit -m "<message>"`

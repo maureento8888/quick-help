@@ -1,8 +1,9 @@
-### Open dotfiles
+#### Open dotfiles
 
-open ~/.bash-profile
-open ~/.bashrc
+`$ open ~/.bash-profile`
+`$ open ~/.bashrc`
 
-### Save and Update
-source ~/.bash-profile
-source ~/.bashrc
+#### Save and Update
+
+`$ source ~/.bash-profile`
+`$ source ~/.bashrc`

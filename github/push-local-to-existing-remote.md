@@ -1,18 +1,18 @@
 ### Push local changes to existing empty remote
 
-\$ git init
+`$ git init`
 
 Write your code (or if already written)
 
-\$ git add .
+`$ git add .`
 
-\$ git commit -m "<message>"
+`$ git commit -m "<message>"`
 
 Push to GitHub, create new repo (NO README)
 
-\$ git remote add upstream <repo-url>
+`$ git remote add upstream <repo-url>`
 
-\$ git push upstream master
+`$ git push upstream master`
 
 IF accidentally created README:
-\$ git push -f upstream master // '-f' erases commit on remote
+`$ git push -f upstream master` // `'-f'` erases commit on remote

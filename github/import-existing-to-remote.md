@@ -1,17 +1,17 @@
-In GitHub, create new repo - NO README, license, gitignore
+### Create new repo (GitHub) - Re: NO README, license, .gitignore
 
 In Terminal, cd into local repo
 
-$ git init
+`$ git init`
 
-$ git add . // stage for commit
+`$ git add .` // stage all files for commit
 
-$ git commit -m "<commit message>" // commits tracked changes to push
+`$ git commit -m "<message>"` // commits tracked changes to push
 
 In GitHub, copy URL
 
-$ git remote add origin <remote repository URL> // sets the new remote
+`$ git remote add origin <remote repo URL>` // sets the new remote
 
-$ git remote -v // verifies the new remote URL
+`$ git remote -v` // verifies the new remote URL
 
-$ git push -u origin master // pushes the changes in your local repository up to the remote repository you specified as the origin
+`$ git push -u origin master` // pushes the changes in your local repository up to the remote repository you specified as the origin

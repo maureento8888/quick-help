@@ -1,3 +1,3 @@
 ### Start Vue CLI project
 
-vue create `<project-name>`
+`vue create <project-name>`
