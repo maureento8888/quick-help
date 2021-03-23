@@ -1,5 +1,5 @@
-Edit `.gitconfig` file - system/user credentials
+### Edit `.gitconfig` file - Re: credentials
 
-$ open "$HOME/.gitconfig"
+\$ open "$HOME/.gitconfig"
 
-// Prefix path `$HOME/` if permission denied
+- Prefix path `$HOME/` if permission denied
