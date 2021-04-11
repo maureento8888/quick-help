@@ -1,4 +1,4 @@
-### Edit `.gitconfig` file - Re: credentials
+### Edit `.gitconfig` file - Re: system credentials
 
 `$ open "$HOME/.gitconfig"`
 

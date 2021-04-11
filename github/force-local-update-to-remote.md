@@ -1,4 +1,6 @@
-### Check you're in master branch
+### Forcing a local update to remote repo
+
+#### Check you're in master branch
 
 `$ git checkout master` // "checks out" to master branch if not already on it
 
