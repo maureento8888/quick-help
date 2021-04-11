@@ -1,1 +1,3 @@
-`$ git remote set-url <remote_name> <remote_url>`
+### Changing remote origin URL
+
+`$ git remote set-url origin <new-repo-url>`
