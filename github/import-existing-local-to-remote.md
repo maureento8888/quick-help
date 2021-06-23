@@ -1,4 +1,4 @@
-### Create new repo (GitHub) - Re: NO README, license, .gitignore
+### Create new repo (GitHub) - NO README, license, .gitignore
 
 In Terminal, cd into local repo
 
