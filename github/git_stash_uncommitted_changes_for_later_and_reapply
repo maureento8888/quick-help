@@ -1,0 +1,18 @@
+### Git stash to hold uncommitted changes for later and then reapply when ready
+
+Check what's to be committed
+`$ git status`
+
+Stash your current work (if uncommitted changes exist)
+`$ git stash`
+
+(Now you can add any changes, new commits, swich branches, etc.)
+
+Check branch you want to commit stashed stuff to
+`$ git status`
+
+Now apply changes to your current work (may need to accept/ignore new changes if copy from stashed isn't same if current work edited since)
+`$ git stash pop`
+
+Or, you can reapply changes AND keep them in stash with:
+`$ git stash apply`
